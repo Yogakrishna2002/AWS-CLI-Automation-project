@@ -16,3 +16,4 @@ Before running the scripts, ensure you have:
 ✅ AWS CLI installed → Install Guide
 ✅ Configured AWS credentials (aws configure)
 ✅ Basic knowledge of Bash scriptin
+![Screenshot 2025-03-06 191841](https://github.com/user-attachments/assets/a134213d-f40b-4d30-a529-3192ed8415bb)
